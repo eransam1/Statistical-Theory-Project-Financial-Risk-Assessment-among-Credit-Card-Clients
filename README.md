@@ -34,12 +34,5 @@ This repository contains code and data for the final project of the course *Stat
 
 - No variables were removed from the original dataset.
 - Categorical columns were mapped to numerical values in the notebook.
-- The analyses follow a fixed sequence: descriptive stats, chi-square, t-tests, logistic regression, and a decision tree.
+- The analyses on the Jupyter Notebook have all the information nedded with headlines explaning all parts of the project with comments explaning specific additional explanation if nedded.
 
----
-
-## 📬 Contact
-
-For any questions, please contact:  
-**Eran Samuel**  
-eran.s@example.com *(replace with your email if desired)*
