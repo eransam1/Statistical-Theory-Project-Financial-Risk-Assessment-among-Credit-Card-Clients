@@ -1,11 +1,11 @@
 
-# Credit Default Risk Analysis
+# Statistical Theory Project Financial Risk Assessment among Credit Card Clients
 
-This repository contains code and data for the final project of the course *Statistical Inference and Theory*. The analysis focuses on identifying and modeling financial risk using demographic and behavioral variables.
+This repository contains code and data for the final project of the course *Statistical Theory*. The analysis focuses on identifying and modeling financial risk using demographic and behavioral variables.
 
 ---
 
-## 🔧 How to Run the Project
+## How to Run the Project
 
 1. **Requirements**:
    - Python 3.x
@@ -20,7 +20,7 @@ This repository contains code and data for the final project of the course *Stat
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -30,7 +30,7 @@ This repository contains code and data for the final project of the course *Stat
 
 ---
 
-## 📌 Notes on Reproducibility
+## Notes on Reproducibility
 
 - No variables were removed from the original dataset.
 - Categorical columns were mapped to numerical values in the notebook.
