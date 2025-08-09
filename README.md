@@ -17,6 +17,8 @@ This repository contains code and data for the final project of the course *Stat
 
 3. **Data**:
    The file `Default of Credit Card Clients.csv` must be in the same directory.
+   You can access the data on Kaggle:
+   [Default of Credit Card Clients - Kaggle](https://www.kaggle.com/datasets/mariosfish/default-of-credit-card-clients/data)
 
 ---
 
